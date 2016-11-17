@@ -1,0 +1,5 @@
+/home/cristo/Projects/Pipes/Pipes.Structura/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristo/Projects/Pipes/Pipes.Structura/bin/Debug/Pipes.Structura.dll.mdb
+/home/cristo/Projects/Pipes/Pipes.Structura/bin/Debug/Pipes.Structura.dll
+/home/cristo/Projects/Pipes/Pipes.Structura/obj/x86/Debug/Pipes.Structura.dll
+/home/cristo/Projects/Pipes/Pipes.Structura/obj/x86/Debug/Pipes.Structura.dll.mdb
